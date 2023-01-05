@@ -1,4 +1,4 @@
-# Medic-Angel
+# MedicAngel
 
 ## Description:
    To develop the web application for crowd-funding in medical emergency.
