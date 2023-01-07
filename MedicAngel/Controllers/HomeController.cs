@@ -45,13 +45,17 @@ public class HomeController : Controller
     {     
         return View();
     }
-    List<User> list = new List<User>(); 
+    
+    List<User> users = new List<User>();
+
     public IActionResult Insert(string firstname, string lastname,string email, string password)
     {    
-        list.Add(new User(firstname, lastname ,email , password));
+        users.Add(new User(firstname, lastname ,email , password));
+        Serial s = new Serial();
+        s.iserial(users);
         return Redirect("/Home/Details");
- 
-    } 
+        
+    }
 
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()

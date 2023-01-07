@@ -9,49 +9,49 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MedicAngel
 build_property.RootNamespace = MedicAngel
-build_property.ProjectDir = H:\C#\Assignment\day8_WebProgram\MedicAngel\
+build_property.ProjectDir = C:\Users\yash\OneDrive\Desktop\College\Medic-Angel\MedicAngel\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = H:\C#\Assignment\day8_WebProgram\MedicAngel
+build_property.MSBuildProjectDirectory = C:\Users\yash\OneDrive\Desktop\College\Medic-Angel\MedicAngel
 build_property._RazorSourceGeneratorDebug = 
 
-[H:/C\#/Assignment/day8_WebProgram/MedicAngel/Views/Home/Details.cshtml]
+[C:/Users/yash/OneDrive/Desktop/College/Medic-Angel/MedicAngel/Views/Home/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[H:/C\#/Assignment/day8_WebProgram/MedicAngel/Views/Home/Index.cshtml]
+[C:/Users/yash/OneDrive/Desktop/College/Medic-Angel/MedicAngel/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[H:/C\#/Assignment/day8_WebProgram/MedicAngel/Views/Home/Login.cshtml]
+[C:/Users/yash/OneDrive/Desktop/College/Medic-Angel/MedicAngel/Views/Home/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[H:/C\#/Assignment/day8_WebProgram/MedicAngel/Views/Home/Privacy.cshtml]
+[C:/Users/yash/OneDrive/Desktop/College/Medic-Angel/MedicAngel/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[H:/C\#/Assignment/day8_WebProgram/MedicAngel/Views/Home/Register.cshtml]
+[C:/Users/yash/OneDrive/Desktop/College/Medic-Angel/MedicAngel/Views/Home/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[H:/C\#/Assignment/day8_WebProgram/MedicAngel/Views/Shared/Error.cshtml]
+[C:/Users/yash/OneDrive/Desktop/College/Medic-Angel/MedicAngel/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[H:/C\#/Assignment/day8_WebProgram/MedicAngel/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/yash/OneDrive/Desktop/College/Medic-Angel/MedicAngel/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[H:/C\#/Assignment/day8_WebProgram/MedicAngel/Views/_ViewImports.cshtml]
+[C:/Users/yash/OneDrive/Desktop/College/Medic-Angel/MedicAngel/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[H:/C\#/Assignment/day8_WebProgram/MedicAngel/Views/_ViewStart.cshtml]
+[C:/Users/yash/OneDrive/Desktop/College/Medic-Angel/MedicAngel/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[H:/C\#/Assignment/day8_WebProgram/MedicAngel/Views/Shared/_Layout.cshtml]
+[C:/Users/yash/OneDrive/Desktop/College/Medic-Angel/MedicAngel/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-8ct27l5t8q
