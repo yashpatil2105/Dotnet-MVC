@@ -3,7 +3,15 @@
     ViewData["Title"] = "Detail Page";
 }
 
-<div>using MedicAngel.Controllers;</div>
+<div style="font-size: larger;">
+    @{List<User> users = (List<User>)ViewData["Catlog"];
+     <ol>
+            @foreach(User user in users){
+                <li>@user</li>
+            }
+        </ol>}
+
+</div>
 
 
        

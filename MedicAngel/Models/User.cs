@@ -1,4 +1,4 @@
-namespace Info;
+namespace MedicAngel.Models;
 
 public class User{
     public string lastname{set;get;}

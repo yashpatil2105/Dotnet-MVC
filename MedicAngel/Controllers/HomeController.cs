@@ -1,7 +1,6 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using MedicAngel.Models;
-using Info;
 namespace MedicAngel.Controllers;
 
 public class HomeController : Controller
@@ -34,26 +33,30 @@ public class HomeController : Controller
     }
 
     public IActionResult validate(string email, string password)
-    {    
-        Console.Write(email);
-        Console.Write(password);
-        return Redirect("/Home/Register");
+    {   List<User> users = (List<User>)Serial.GetDetails();
+        foreach(User user in users){
+            if(user.email.Equals(email) && user.password.Equals(password)){
+                return Redirect("/Home/Details");
+            }
+        }
+        return Redirect("/Home/Login");
  
     }
 
     public IActionResult Details()
     {     
+        ViewData["Catlog"] = (List<User>)Serial.GetDetails();
         return View();
     }
     
-    List<User> users = new List<User>();
+    
 
     public IActionResult Insert(string firstname, string lastname,string email, string password)
     {    
-        users.Add(new User(firstname, lastname ,email , password));
-        Serial s = new Serial();
-        s.iserial(users);
-        return Redirect("/Home/Details");
+        
+        
+        Serial.WriteJson(new User(firstname, lastname ,email , password));
+        return Redirect("/Home/Login");
         
     }
 
