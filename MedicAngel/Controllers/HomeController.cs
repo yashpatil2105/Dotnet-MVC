@@ -49,14 +49,24 @@ public class HomeController : Controller
         return View();
     }
     
-    
 
-    public IActionResult Insert(string firstname, string lastname,string email, string password)
+
+    public IActionResult Insert(string firstname, string lastname, string email, string password, string gender, string city,string country)
     {    
-        
-        
-        Serial.WriteJson(new User(firstname, lastname ,email , password));
+        if(firstname!=null && lastname!=null && email!=null && password!=null && gender!=null && city!=null && country != null){
+        if(gender=="option1"){
+            gender="Male";
+        }
+        else if(gender=="option2"){
+            gender="Female";
+        }
+        else{
+            gender="Not Mentioned";
+        }
+        Serial.WriteJson(new User(firstname, lastname ,email , password, gender, city, country));
         return Redirect("/Home/Login");
+        }
+        return Redirect("/Home/Register");
         
     }
 

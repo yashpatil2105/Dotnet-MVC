@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Medic-Angel\\MedicAngel\\MedicAngel.csproj": {}
+    "C:\\Users\\yash\\OneDrive\\Desktop\\College\\Medic-Angel\\Medic-Angel\\MedicAngel\\MedicAngel.csproj": {}
   },
   "projects": {
-    "H:\\Medic-Angel\\MedicAngel\\MedicAngel.csproj": {
+    "C:\\Users\\yash\\OneDrive\\Desktop\\College\\Medic-Angel\\Medic-Angel\\MedicAngel\\MedicAngel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Medic-Angel\\MedicAngel\\MedicAngel.csproj",
+        "projectUniqueName": "C:\\Users\\yash\\OneDrive\\Desktop\\College\\Medic-Angel\\Medic-Angel\\MedicAngel\\MedicAngel.csproj",
         "projectName": "MedicAngel",
-        "projectPath": "H:\\Medic-Angel\\MedicAngel\\MedicAngel.csproj",
-        "packagesPath": "C:\\Users\\dac\\.nuget\\packages\\",
-        "outputPath": "H:\\Medic-Angel\\MedicAngel\\obj\\",
+        "projectPath": "C:\\Users\\yash\\OneDrive\\Desktop\\College\\Medic-Angel\\Medic-Angel\\MedicAngel\\MedicAngel.csproj",
+        "packagesPath": "C:\\Users\\yash\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yash\\OneDrive\\Desktop\\College\\Medic-Angel\\Medic-Angel\\MedicAngel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dac\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\yash\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

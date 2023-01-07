@@ -5,7 +5,6 @@ using System.Text.Json;
 
 public class Serial{
     
-    
     public static void WriteJson(User user)
     {    
         try{
@@ -13,16 +12,16 @@ public class Serial{
         users.Add(user);
         var options =new  JsonSerializerOptions {IncludeFields = true};
         var usersJson = JsonSerializer.Serialize<List<User>>(users,options);
-        string fileName = @"H:\Medic-Angel\MedicAngel\wwwroot\Data\data.json";
+        string fileName = @"C:\Users\yash\OneDrive\Desktop\College\Medic-Angel\Medic-Angel\MedicAngel\wwwroot\Data\data.json";
         File.WriteAllText(fileName,usersJson);
         }catch(Exception exp){
-    
+          
         }
     }
 
     public static List<User> GetDetails(){
 
-        string fileName = @"H:\Medic-Angel\MedicAngel\wwwroot\Data\data.json";
+        string fileName = @"C:\Users\yash\OneDrive\Desktop\College\Medic-Angel\Medic-Angel\MedicAngel\wwwroot\Data\data.json";
         string jsonString = File.ReadAllText(fileName);
         List<User> jsonUser = JsonSerializer.Deserialize<List<User>>(jsonString);
         return jsonUser;
