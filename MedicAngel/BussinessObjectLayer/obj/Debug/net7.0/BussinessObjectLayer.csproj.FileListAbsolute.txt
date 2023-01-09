@@ -1,0 +1,12 @@
+H:\Medic-Angel\MedicAngel\BussinessObjectLayer\bin\Debug\net7.0\BussinessObjectLayer.deps.json
+H:\Medic-Angel\MedicAngel\BussinessObjectLayer\bin\Debug\net7.0\BussinessObjectLayer.dll
+H:\Medic-Angel\MedicAngel\BussinessObjectLayer\bin\Debug\net7.0\BussinessObjectLayer.pdb
+H:\Medic-Angel\MedicAngel\BussinessObjectLayer\obj\Debug\net7.0\BussinessObjectLayer.csproj.AssemblyReference.cache
+H:\Medic-Angel\MedicAngel\BussinessObjectLayer\obj\Debug\net7.0\BussinessObjectLayer.GeneratedMSBuildEditorConfig.editorconfig
+H:\Medic-Angel\MedicAngel\BussinessObjectLayer\obj\Debug\net7.0\BussinessObjectLayer.AssemblyInfoInputs.cache
+H:\Medic-Angel\MedicAngel\BussinessObjectLayer\obj\Debug\net7.0\BussinessObjectLayer.AssemblyInfo.cs
+H:\Medic-Angel\MedicAngel\BussinessObjectLayer\obj\Debug\net7.0\BussinessObjectLayer.csproj.CoreCompileInputs.cache
+H:\Medic-Angel\MedicAngel\BussinessObjectLayer\obj\Debug\net7.0\BussinessObjectLayer.dll
+H:\Medic-Angel\MedicAngel\BussinessObjectLayer\obj\Debug\net7.0\refint\BussinessObjectLayer.dll
+H:\Medic-Angel\MedicAngel\BussinessObjectLayer\obj\Debug\net7.0\BussinessObjectLayer.pdb
+H:\Medic-Angel\MedicAngel\BussinessObjectLayer\obj\Debug\net7.0\ref\BussinessObjectLayer.dll

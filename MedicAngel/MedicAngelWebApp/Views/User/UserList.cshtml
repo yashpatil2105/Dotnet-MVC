@@ -1,0 +1,17 @@
+@using BussinessObjectLayer;
+@{
+    ViewData["Title"] = "Detail Page";
+}
+
+<div style="font-size: larger;">
+    @{List<User> users = (List<User>)ViewData["Catlog"];
+        <ol>
+            @foreach(User user in users){
+                <li><a href="/User/UserDetails/?email=@user.email">@user.firstname @user.lastname</a><a href="/User/UserDetails/?email=@user.email">delete</a></li>
+            }
+        </ol>
+        }
+</div>
+
+
+       

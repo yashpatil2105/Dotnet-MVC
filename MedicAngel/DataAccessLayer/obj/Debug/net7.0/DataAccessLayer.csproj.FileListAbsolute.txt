@@ -1,0 +1,15 @@
+H:\Medic-Angel\MedicAngel\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.deps.json
+H:\Medic-Angel\MedicAngel\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.dll
+H:\Medic-Angel\MedicAngel\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+H:\Medic-Angel\MedicAngel\DataAccessLayer\bin\Debug\net7.0\BussinessObjectLayer.dll
+H:\Medic-Angel\MedicAngel\DataAccessLayer\bin\Debug\net7.0\BussinessObjectLayer.pdb
+H:\Medic-Angel\MedicAngel\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.AssemblyReference.cache
+H:\Medic-Angel\MedicAngel\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+H:\Medic-Angel\MedicAngel\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfoInputs.cache
+H:\Medic-Angel\MedicAngel\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfo.cs
+H:\Medic-Angel\MedicAngel\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+H:\Medic-Angel\MedicAngel\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CopyComplete
+H:\Medic-Angel\MedicAngel\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.dll
+H:\Medic-Angel\MedicAngel\DataAccessLayer\obj\Debug\net7.0\refint\DataAccessLayer.dll
+H:\Medic-Angel\MedicAngel\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.pdb
+H:\Medic-Angel\MedicAngel\DataAccessLayer\obj\Debug\net7.0\ref\DataAccessLayer.dll
